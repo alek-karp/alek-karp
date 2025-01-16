@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aleksander Karp 👋
 
-<!--
-**alek-karp/alek-karp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 **Location:** Vancouver, British Columbia, Canada\
+📧 **Email:** [contact@alekkarp.com](mailto\:contact@alekkarp.com)\
+🔗 **Links:** [GitHub](https://github.com/alek-karp) | [LinkedIn](https://linkedin.com/in/alek-karp)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a **Software Engineer** with over 6 years of experience building scalable and high-performance web applications. I specialize in full-stack development, cloud-based services, and optimizing user experiences. My passion lies in crafting impactful solutions that make a difference—whether it's improving accessibility, refactoring legacy code, or leveraging AI for smarter automation.
+
+---
+
+## 💼 Current Role
+
+### **Software Engineer, Embedded at Google (via Left Field Labs)**
+
+---
+
+## 🚀 Let's Connect
+
+I'm always eager to collaborate on innovative projects and share ideas. Feel free to reach out via [LinkedIn](https://linkedin.com/in/alek-karp) or check out my work on [GitHub](https://github.com/alek-karp)!

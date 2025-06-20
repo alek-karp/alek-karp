@@ -14,7 +14,7 @@ I'm a **Software Engineer** with over 6 years of experience building scalable an
 
 ## 💼 Current Role
 
-### **Software Engineer, Embedded at Google (via Left Field Labs)**
+### **Software Development Engineer at Amazon**
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi, I'm Aleksander Karp 👋
+# Hi, I'm Alek Karp 👋
 
 🌍 **Location:** Vancouver, British Columbia, Canada\
 📧 **Email:** [contact@alekkarp.com](mailto\:contact@alekkarp.com)\
